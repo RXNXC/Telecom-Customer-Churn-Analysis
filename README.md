@@ -17,3 +17,7 @@ Key findings:
 Deliverables: Cleaned Excel workbook with pivot analysis, formal documentation of methodology and findings (Word), and a stakeholder-ready summary of insights.
 
 Tools used: Excel (pivot tables, data cleaning), data visualization, business analysis
+
+Author
+Akinwale Adewale David
+📧 adewaledave4@gmail.com · 🔗 LinkedIn https://www.linkedin.com/in/adewale-akinwale-0a4b1525a/ . Portfolio Website- https://rxnxc.github.io
